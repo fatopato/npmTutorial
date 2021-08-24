@@ -1,0 +1,16 @@
+{
+  "name": "npmbasics",
+  "version": "1.0.0",
+  "description": "Basics of npm",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "author": "Fatih Koprucu",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
